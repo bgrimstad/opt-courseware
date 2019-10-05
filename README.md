@@ -1,2 +1,2 @@
 # opt-courseware
-Courseware for XX production optimization
+Courseware - topics in machine learning and optimization
